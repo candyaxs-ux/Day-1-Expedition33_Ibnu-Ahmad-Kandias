@@ -1,5 +1,16 @@
 # Day-1-Expedition33_Ibnu-Ahmad-Kandias
+# Deskripsi Peserta
+•Nama Lengkap : Ibnu Ahmad Kandias<br>
+•Kelas : TMD 1B<br>
+•Kelompok : Kelompok 3-Expedition33<br>
+•Kegiatan : Day 1 Proyek Workshop/Sosialisasi<br>
+# Deskripsi Repository
 Eksplorasi dasar teknologi melalui workshop Prompt Engineering, Git, dan GitHub. Berisi dokumentasi materi, Aktivitas, Serta hasil pembelajaran dari hari pertama
+# Dokumentasi Kegiatan Workshop (Day 1)
+<img width="1280" height="994" alt="image" src="https://github.com/user-attachments/assets/587a4025-d9cb-4665-8cbc-d65fa9213648" />
+
+
+# Materi
 Workshop Day 1 — Introduction to Prompt Engineering, Git & GitHub
 1. Prompt Engineering
 Pengertian Prompt
